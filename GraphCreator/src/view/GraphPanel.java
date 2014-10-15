@@ -199,6 +199,7 @@ public class GraphPanel extends JInternalFrame implements MouseMotionListener, M
         }
 
         bfs.getGraph(graph);
+        dfs.getGraph(graph);
     }
 
     /**

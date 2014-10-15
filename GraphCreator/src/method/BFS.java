@@ -11,9 +11,7 @@ public class BFS {
 
     private Graph graph;
     public BFS() {
-
     }
-
     public void bfs(int sourceVertex){
         ArrayList<Integer> result = new ArrayList<Integer>();
         System.out.println();
